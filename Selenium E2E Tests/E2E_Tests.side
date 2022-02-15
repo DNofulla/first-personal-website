@@ -1,7 +1,7 @@
 {
   "id": "1b1bcfd4-17d6-4cf0-8f58-518ef42bb42a",
   "version": "2.0",
-  "name": "E2E Daniel Term Project 418",
+  "name": "E2E_Tests",
   "url": "http://ec2-35-153-73-189.compute-1.amazonaws.com",
   "tests": [{
     "id": "6c4728ed-3ac1-4b35-a8eb-7ee76b594078",
